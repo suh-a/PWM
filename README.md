@@ -33,7 +33,7 @@ Manter essa posição por 5 segundos.
 Observar o comportamento da iluminação do LED RGB na GPIO 12.
 
 ### 🎥 Vídeo com o funcionamento
-[vídeo]
+https://drive.google.com/file/d/1jOYAAgbEatJbPh0dKNnd0nwTpejiNp4q/view?usp=sharing
 
 ### 🎯 Conclusão
 
